@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using ShoppingCartSample.ViewComponents.ViewModel;
+using SimpleShoppingCart.Models;
 using SimpleShoppingCart.Services;
 
 namespace ShoppingCartSample.Controllers

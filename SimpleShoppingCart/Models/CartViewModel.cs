@@ -1,6 +1,4 @@
-﻿using SimpleShoppingCart.Models;
-
-namespace ShoppingCartSample.ViewComponents.ViewModel;
+﻿namespace SimpleShoppingCart.Models;
 
 public class CartViewModel
 {
