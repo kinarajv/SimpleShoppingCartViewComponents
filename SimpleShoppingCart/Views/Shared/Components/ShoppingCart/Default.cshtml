@@ -1,0 +1,7 @@
+﻿@model ShoppingCartSample.ViewComponents.ViewModel.ShoppingCartViewModel
+
+<div class="shopping-cart">
+    <a asp-controller="Cart" asp-action="Index" class="btn btn-outline-primary">
+        Cart (@Model.ItemCount) - $@Model.Total.ToString("0.00")
+    </a>
+</div>
