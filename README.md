@@ -1,25 +1,3 @@
-# ShoppingCartSample
-
-Welcome to **ShoppingCartSample**, a simple and impactful ASP.NET Core MVC project that demonstrates how to implement a **stateless Shopping Cart** using **View Components**. This project showcases how to manage shopping cart data entirely on the client-side using cookies, ensuring a stateless server architecture.
-
-## Table of Contents
-
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Technology Stack](#technology-stack)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Security Considerations](#security-considerations)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Project Overview
-
-**ShoppingCartSample** is designed to demonstrate the use of **View Components** in an ASP.NET Core MVC application by implementing a **stateless Shopping Cart**. Instead of relying on server-side sessions, the cart data is stored in cookies on the client-side, allowing the server to remain stateless regarding the cart.
-
 ## Features
 
 - **Product Listing:** Browse through a list of available products with details like name, description, price, and image.
@@ -52,8 +30,8 @@ Follow these instructions to set up and run the project on your local machine.
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/ShoppingCartSample.git
-   cd ShoppingCartSample
+   git clone https://github.com/kinarajv/SimpleShoppingCartViewComponents.git
+   cd SimpleShoppingCartViewComponents
    ```
 
 2. **Restore Dependencies**
